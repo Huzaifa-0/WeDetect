@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149199398502",
+    "project_id": "we-detect",
+    "storage_bucket": "we-detect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149199398502:android:069cc9ec28dd339139efa7",
+        "android_client_info": {
+          "package_name": "com.example.we_detect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149199398502-1j2aejlsj1hfp9soroqjfpinshdsgjv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABSzXGRrIr7VVTTMu4itB0wJcU78uBDR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149199398502-1j2aejlsj1hfp9soroqjfpinshdsgjv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
